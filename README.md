@@ -7,13 +7,12 @@ Bikeshare Project as part of Udacity program on Python for Data Science
 ### Description
 Utility to provide information on Bikeshare application.
 
-<<<<<<< HEAD
+
 ### Files used
 Files include :
 =======
 The Bikeshare project uses data present in 3 csv Files:
 
->>>>>>> documentation
 chicago.csv
 new_york_city.csv
 washington.csv
