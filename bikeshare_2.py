@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+
 
 
 import time
@@ -18,7 +18,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 
-# In[3]:
+
 
 
 def get_filters():
@@ -65,7 +65,7 @@ def get_filters():
     return city, month, day
 
 
-# In[4]:
+
 
 
 def load_data(city, month, day):
